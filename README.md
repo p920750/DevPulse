@@ -102,7 +102,7 @@ The project is hosted and accessible via the following production URLs:
 
 | Service | Platform | Live URL |
 | :--- | :--- | :--- |
-| **Frontend UI** | Vercel | [https://devpulse-frontend.vercel.app](https://devpulse-frontend.vercel.app) |
-| **Backend API** | Render | [https://devpulse-backend-afzc.onrender.com](https://devpulse-backend-afzc.onrender.com) |
+| **Frontend UI** | Vercel | [https://devpulsefrontend.vercel.app/](https://devpulsefrontend.vercel.app/) |
+| **Backend API** | Render | [https://devpulse-backend-afzc.onrender.com/](https://devpulse-backend-afzc.onrender.com/) |
 
 ---
