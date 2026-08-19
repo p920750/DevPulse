@@ -110,4 +110,6 @@ The project is hosted and accessible via the following production URLs:
 
 ## 🎥 Project Demo Video
 
-[Watch the Project Demo Video](./demo.mp4)
+<video src="./demo.mp4" controls width="100%">
+  Your browser does not support the video tag.
+</video>
