@@ -93,3 +93,16 @@ PORT=5000
 MONGO_URI=mongodb://localhost:27017/devpulse
 BRIGHT_DATA_API_KEY=your_bright_data_api_key
 BRIGHT_DATA_COLLECTOR_ID=c_xxxxxx
+```
+
+
+# 🌐 Live Deployment & Links
+
+The project is hosted and accessible via the following production URLs:
+
+| Service | Platform | Live URL |
+| :--- | :--- | :--- |
+| **Frontend UI** | Vercel | [https://devpulse-frontend.vercel.app](https://devpulse-frontend.vercel.app) |
+| **Backend API** | Render | [https://devpulse-backend-afzc.onrender.com](https://devpulse-backend-afzc.onrender.com) |
+
+---
