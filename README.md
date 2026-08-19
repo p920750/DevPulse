@@ -96,7 +96,7 @@ BRIGHT_DATA_COLLECTOR_ID=c_xxxxxx
 ```
 
 
-# 🌐 Live Deployment & Links
+## 🌐 Live Deployment & Links
 
 The project is hosted and accessible via the following production URLs:
 
@@ -106,3 +106,8 @@ The project is hosted and accessible via the following production URLs:
 | **Backend API** | Render | [https://devpulse-backend-afzc.onrender.com/](https://devpulse-backend-afzc.onrender.com/) |
 
 ---
+
+
+## 🎥 Project Demo Video
+
+[Watch the Project Demo Video](./demo.mp4)
