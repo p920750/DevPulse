@@ -107,7 +107,19 @@ The project is hosted and accessible via the following production URLs:
 
 ---
 
+## 💻 Tech Stack Details
+
+DevPulse is built using a modern, performant web and data-engineering stack:
+
+* **Frontend:** React, Vite, Tailwind CSS, Recharts, Lucide React
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **Data Extraction:** Bright Data Scraper Studio API
+* **Hosting:** Vercel & Render
+
+---
+
 
 ## 🎥 Project Demo Video
 
-[▶ Watch Demo Video](./demo.mp4)
+[▶ Watch Demo Video](https://drive.google.com/file/d/1r9VsGFaqOd7yO2lDDqdj8Wn62G_6HnG1/view?usp=drive_link)
